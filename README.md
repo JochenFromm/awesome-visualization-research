@@ -36,7 +36,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 ## Automated Visualization Design
 
-- [Automating the Design of Graphical Presentations of Relational Information](https://research.tableau.com/sites/default/files/p110-mackinlay.pdf) - algorithm for automatically creating a visualization, given a dataset.
+- [Automating the Design of Graphical Presentations of Relational Information](https://www.researchgate.net/publication/220184008_Automating_the_Design_of_Graphical_Presentations_of_Relational_Information) - algorithm for automatically creating a visualization, given a dataset.
 
 ## Big Data
 
@@ -47,7 +47,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 ## Color
 
-- [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palette convey different emotions?
+- [Affective Colour Palettes in Visualization](https://www.tableau.com/research/publications/affective-colour-palettes-visualization-poster) - how can different color palette convey different emotions?
 - [Algorithmic improvements for the CIECAM02 and CAM16 color appearance models](https://www.researchgate.net/publication/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models/fulltext/5a8a41120f7e9b1a95543172/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models.pdf?origin=publication_detail) - An overview of the CIECAM16 and CIECAM02 color appearance models, thought to be successors to the popular CIELAB model.
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
@@ -133,11 +133,11 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 
 ## Visual Forms
-- [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
+- [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://www.tableau.com/sites/default/files/2023-01/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
 - [Data Through Others’ Eyes: The Impact of Visualizing Others’
 Expectations on Visualization Interpretation](https://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf) - Evaluation of visualizations that reveal other user's expectations around a dataset, like NYT's You Draw It results graphs.
 - [Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting](https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf) - User study of different timeline styles (line, star, radial etc.).
-- [Four Experiments on the Perception of Bar Charts](https://research.tableau.com/sites/default/files/bar.pdf) - Follow-up to Cleveland's 1984 study that looks closer at why and when bar charts are preferable
+- [Four Experiments on the Perception of Bar Charts](https://www.tableau.com/sites/default/files/2023-01/bar.pdf) - Follow-up to Cleveland's 1984 study that looks closer at why and when bar charts are preferable
 - [Graphical Methods for Data Presentation: Full Scale Breaks, Dot Charts, and Multibased Logging](https://www.jstor.org/stable/2683401) - Cleveland study on dot plots over bar charts
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://www.jstor.org/stable/2288400?seq=1#page_scan_tab_contents) - Classic paper with ranked lists of how well people decode visual cues.
 - [ISOTYPE Visualization Working Memory, Performance, and Engagement](http://steveharoz.com/research/isotype/) - Analysis of the use of isotypes as representations within the chart drawing space
@@ -145,7 +145,7 @@ Expectations on Visualization Interpretation](https://faculty.washington.edu/jhu
 - [Perceptual Guidelines for Creating Rectangular Treemaps](https://pdfs.semanticscholar.org/12e5/f66739c6f746d0ebfc52eb52f18d288f4064.pdf) - Heer user study on the effective design of treemaps, followed up by later studies
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 - [Sunburst Chart](http://www.cc.gatech.edu/~john.stasko/papers/infovis00.pdf) - the sunburst chart is a radial alternative to a treemap
-- [The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
+- [The Connected Scatterplot for Presenting Paired Time Series](https://www.tableau.com/sites/default/files/2023-01/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
 - [Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://pdfs.semanticscholar.org/0812/fd5208001851e75d6c2f0881e2f5d037f285.pdf) - A metastudy of over 200 timeline designs.
 - [Tree-Maps: a space-filling approach to the visualization of hierarchical information structures](https://dl.acm.org/citation.cfm?id=949654) - Shneiderman's treemap paper, where he describes the form initially
 - [Using Typography to Expand the Design Space of Data Visualization](https://www.sciencedirect.com/science/article/pii/S2405872616300107) - Exploration of ways to use type to construct visualization forms
